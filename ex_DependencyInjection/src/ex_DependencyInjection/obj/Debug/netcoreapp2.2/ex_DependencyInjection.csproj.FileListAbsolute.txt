@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\bin\Debug\netcoreapp2.2\ex_DependencyInjection.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\bin\Debug\netcoreapp2.2\ex_DependencyInjection.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\bin\Debug\netcoreapp2.2\ex_DependencyInjection.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\bin\Debug\netcoreapp2.2\ex_DependencyInjection.dll
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\bin\Debug\netcoreapp2.2\ex_DependencyInjection.pdb
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\obj\Debug\netcoreapp2.2\ex_DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\obj\Debug\netcoreapp2.2\ex_DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\obj\Debug\netcoreapp2.2\ex_DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\obj\Debug\netcoreapp2.2\ex_DependencyInjection.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\obj\Debug\netcoreapp2.2\ex_DependencyInjection.dll
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_DependencyInjection\src\ex_DependencyInjection\obj\Debug\netcoreapp2.2\ex_DependencyInjection.pdb

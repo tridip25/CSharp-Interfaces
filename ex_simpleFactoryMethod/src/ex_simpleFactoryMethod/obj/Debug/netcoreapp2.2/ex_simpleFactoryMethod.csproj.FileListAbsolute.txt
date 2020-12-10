@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\bin\Debug\netcoreapp2.2\ex_simpleFactoryMethod.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\bin\Debug\netcoreapp2.2\ex_simpleFactoryMethod.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\bin\Debug\netcoreapp2.2\ex_simpleFactoryMethod.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\bin\Debug\netcoreapp2.2\ex_simpleFactoryMethod.dll
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\bin\Debug\netcoreapp2.2\ex_simpleFactoryMethod.pdb
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\obj\Debug\netcoreapp2.2\ex_simpleFactoryMethod.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\obj\Debug\netcoreapp2.2\ex_simpleFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\obj\Debug\netcoreapp2.2\ex_simpleFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\obj\Debug\netcoreapp2.2\ex_simpleFactoryMethod.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\obj\Debug\netcoreapp2.2\ex_simpleFactoryMethod.dll
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_simpleFactoryMethod\src\ex_simpleFactoryMethod\obj\Debug\netcoreapp2.2\ex_simpleFactoryMethod.pdb

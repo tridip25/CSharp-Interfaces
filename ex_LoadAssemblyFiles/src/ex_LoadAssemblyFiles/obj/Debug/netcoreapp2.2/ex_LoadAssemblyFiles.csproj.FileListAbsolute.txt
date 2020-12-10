@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\bin\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\bin\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\bin\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\bin\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.dll
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\bin\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.pdb
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\obj\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\obj\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\obj\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\obj\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\obj\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.dll
+C:\Users\Tridip\c#\my_tasks\dec_8\ex_LoadAssemblyFiles\src\ex_LoadAssemblyFiles\obj\Debug\netcoreapp2.2\ex_LoadAssemblyFiles.pdb
