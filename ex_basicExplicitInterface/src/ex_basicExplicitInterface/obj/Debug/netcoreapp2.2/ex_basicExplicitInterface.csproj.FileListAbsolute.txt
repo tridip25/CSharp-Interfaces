@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\bin\Debug\netcoreapp2.2\ex_basicExplicitInterface.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\bin\Debug\netcoreapp2.2\ex_basicExplicitInterface.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\bin\Debug\netcoreapp2.2\ex_basicExplicitInterface.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\bin\Debug\netcoreapp2.2\ex_basicExplicitInterface.dll
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\bin\Debug\netcoreapp2.2\ex_basicExplicitInterface.pdb
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\obj\Debug\netcoreapp2.2\ex_basicExplicitInterface.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\obj\Debug\netcoreapp2.2\ex_basicExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\obj\Debug\netcoreapp2.2\ex_basicExplicitInterface.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\obj\Debug\netcoreapp2.2\ex_basicExplicitInterface.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\obj\Debug\netcoreapp2.2\ex_basicExplicitInterface.dll
+C:\Users\Tridip\c#\my_tasks\dec_10\ex_basicExplicitInterface\src\ex_basicExplicitInterface\obj\Debug\netcoreapp2.2\ex_basicExplicitInterface.pdb

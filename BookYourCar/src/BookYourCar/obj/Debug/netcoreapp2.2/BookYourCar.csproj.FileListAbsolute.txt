@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\bin\Debug\netcoreapp2.2\BookYourCar.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\bin\Debug\netcoreapp2.2\BookYourCar.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\bin\Debug\netcoreapp2.2\BookYourCar.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\bin\Debug\netcoreapp2.2\BookYourCar.dll
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\bin\Debug\netcoreapp2.2\BookYourCar.pdb
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\obj\Debug\netcoreapp2.2\BookYourCar.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\obj\Debug\netcoreapp2.2\BookYourCar.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\obj\Debug\netcoreapp2.2\BookYourCar.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\obj\Debug\netcoreapp2.2\BookYourCar.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\obj\Debug\netcoreapp2.2\BookYourCar.dll
+C:\Users\Tridip\c#\my_tasks\dec_8\BookYourCar\src\BookYourCar\obj\Debug\netcoreapp2.2\BookYourCar.pdb
