@@ -10,7 +10,7 @@ namespace BookYourCar
         public double getTotalAmountStatus(double km , double pricePerKm )
         {
             kilometer = km;
-            pricePerKilometer = pricePerKm;
+            pricePerKilometer = pricePerKm;  
             return kilometer * pricePerKilometer;
         }
 
